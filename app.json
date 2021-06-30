@@ -1,7 +1,7 @@
 {
-  "name": "Project-Bot",
+  "name": "NFbotchat",
   "description": "Bot anonymous chat telegram.",
-  "repository": "https://github.com/apisuserbot/Project-Bot",
+  "repository": "https://github.com/nishfu22/NFbotchat",
   "logo": "https://telegra.ph/file/f9edcf0f82516206171d9.jpg",
   "keywords": ["Project-Bot", "telegram", "python"],
   "env": {
@@ -33,7 +33,7 @@
     "PROJECT_NAME": {
       "description": "Isi dengan nama project bot kalian",
       "required": false,
-      "value": "Project-Bot"
+      "value": "NFbotchat"
     },
     "CHANNEL": {
       "description": "Isi dengan username channel kalian tanpa tanda @ (kalo gak di isi gapapa)",
